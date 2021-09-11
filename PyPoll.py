@@ -4,6 +4,7 @@
 # 3. The percentage of votes each candidate won
 # 4. The total number of votes each candidate won
 # 5. The winner of the election based on popular vote.
+#6. Adding a test comment for demo
 
 import csv
 import os
