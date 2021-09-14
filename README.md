@@ -1,6 +1,7 @@
 #Election_Analysis
 
 ##Project Overview
+
 A Colorado Board of Elections employee has given you the following task to complete the election audit of the recent local congressional election.
 
 The data requiring retrieval:
