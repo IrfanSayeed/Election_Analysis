@@ -1,4 +1,4 @@
-#** Election_Analysis**
+#Election_Analysis
 
 ## Project Overview
 A Colorado Board of Elections employee has given you the following task to complete the election audit of the recent local congressional election.
@@ -9,8 +9,6 @@ The data requiring retrieval:
 3. Calculate the percentage of votes each candidate won
 4. Calculate the total number of votes each candidate won
 5. Determine the winner of the election based on popular vote.
-
-
 
 ##Resources
 -Data Source: election_results.csv
@@ -27,5 +25,8 @@ The analysis of the election showed that:
 
     -------------------------
 ##Challenge Overview
+
+
+
 
 ##Challenge Summary
