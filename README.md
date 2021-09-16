@@ -32,8 +32,18 @@ The analysis of the election showed that:
     
 ## Election-Audit Summary:
 It is proposed that the election commission modify the current script for use with any election.  Current script can be modified by initiating the following code changes:
-1.  put example 1
-2.  put example 2
+1.  Consolidate the print commands for candidates and counties into 1 statement.  Current code has print commands for county and candidate data within 3 separate lines of code creating a consolidated output in the Election_Analysis text file
+
+###current script:
+
+![image](https://user-images.githubusercontent.com/89538802/133560033-00a02125-776a-4429-9107-188b2a59b566.png)
+
+## current output request:
+
+![image](https://user-images.githubusercontent.com/89538802/133560250-1bad6b88-7d91-4adf-b493-6c67c79d94f6.png)
+
+
+2. Script is currently very difficult to follow. Recommend removing the interations to identify a unique candidate list and unique county list with employing a unique() function ...combining tickers for county and candidate???
 
 
     -------------------------
