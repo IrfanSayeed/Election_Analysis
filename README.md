@@ -16,15 +16,18 @@ Determine the winner of the election based on popular vote and the county with t
 ##Election-Audit Results The analysis of the election showed that: 
 
 -Total votes cast in the congressional election was 369,711 
+
 -Vote breakdown of each county in the precinct is as follows: 
-  -Jefferson with 38,855 votes representing 10.5% of votes cast 
-  -Denver with 306,055 votes representing 82.8% of the votes cast 
-  -Arapahoe with 24,801 vote representing 6.7% of the votes cast 
+    -Jefferson with 38,855 votes representing 10.5% of votes cast 
+    -Denver with 306,055 votes representing 82.8% of the votes cast 
+    -Arapahoe with 24,801 vote representing 6.7% of the votes cast 
+    
  -The county of Denver has the largest voter turnout 
  - 3 candidates rans in the election 
-   -Charles Casper Stockham with 85,213 votes representing 23.0% of the total votes cast 
-   -Diana DeGette with 272,892 votes representing 73.8% of the total votes cast 
-   -Raymon Anthony Doane with 11,606 votes representing 3.1% of the total votes cast 
+      -Charles Casper Stockham with 85,213 votes representing 23.0% of the total votes cast 
+      -Diana DeGette with 272,892 votes representing 73.8% of the total votes cast 
+      -Raymon Anthony Doane with 11,606 votes representing 3.1% of the total votes cast 
+      
   -The winner of the election was Diana DeGette, winning with 272,892 votes representing 73.8% of the total votes cast
 
 ##Election-Audit Summary:
