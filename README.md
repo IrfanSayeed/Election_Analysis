@@ -32,7 +32,7 @@ simply some of the calculations, ie. the use of the total vote count for all the
 ###Recommendation 2
 
 -Consolidate the print commands for candidates and counties into 1 statement.
--Current code has print commands for county and candidate data within 4 separate lines of code creating a consolidated output in the Election_Analysis text file
+-Current code has print commands for county and candidate data within 4 sections of code creating a consolidated output in the Election_Analysis text file
 
 output request to terminal and text file in Analysis:
 
