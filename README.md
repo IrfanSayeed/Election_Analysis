@@ -20,7 +20,7 @@ Data Source: election_results.csv -Software: Python 3.7, Visual Studio Code Vers
 
 The analysis of the election showed that: 
 
-   -**Total votes cast** in the congressional election was **369,711**
+  -**Total votes cast** in the congressional election was **369,711**
 
   - Vote breakdown of each county in the precinct is as follows: 
     - Jefferson with 38,855 votes representing 10.5% of votes cast 
