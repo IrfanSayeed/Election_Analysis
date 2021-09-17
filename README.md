@@ -31,7 +31,11 @@ The analysis of the election showed that:
     -The winner of the election was Diana DeGette, winning with 272,892 votes representing 73.8% of the total votes cast
     
 ## Election-Audit Summary:
-It is proposed that the election commission modify the current script for use with any election.  Current script can be modified by initiating the following code changes:
+It is proposed that the election commission modify the current script for use with any election.  The code would be simplified and easier to read.
+
+
+
+Current script can be modified by initiating the following code changes:
 
 
 1. Recommendation 1
@@ -43,13 +47,9 @@ It is proposed that the election commission modify the current script for use wi
 
 2.  Recommendation 2
     - Consolidate the print commands for candidates and counties into 1 statement.  
-    - Current code has print commands for county and candidate data within 3 separate lines of code creating a consolidated output in the Election_Analysis text file
+    - Current code has print commands for county and candidate data within 4 separate lines of code creating a consolidated output in the Election_Analysis text file
 
-###current script:
-
-![image](https://user-images.githubusercontent.com/89538802/133560033-00a02125-776a-4429-9107-188b2a59b566.png)
-
-### current output request:
+# output request to terminal and text file in Analysis:
 
 ![image](https://user-images.githubusercontent.com/89538802/133560250-1bad6b88-7d91-4adf-b493-6c67c79d94f6.png)
 
