@@ -35,7 +35,7 @@ It is proposed that the election commission modify the current script for use wi
 
 
 1. Recommendation 1
-    -  Currently the script is very long, difficult to read and has a multitude of variables to track
+    -  Currently the script is very long, difficult to read and has a multitude of variables to track within several For and If statments
     -  propose consolidating candidate specifc and county specific variables.  
     -  Example:  rather than tracking "winning candidate" and "winning county separately", combine to track "winning_candidate_county".  
     -  This will result a lower level index, which will reduce the multiple variable names, but reduce the number of for and if statements currently in the script.
