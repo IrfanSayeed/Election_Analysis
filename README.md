@@ -39,6 +39,7 @@ It is proposed that the election commission modify the current script for use wi
     -  propose consolidating candidate specifc and county specific variables.  
     -  Example:  rather than tracking "winning candidate" and "winning county separately", combine to track "winning_candidate_county".  
     -  This will result a lower level index, which will reduce the multiple variable names, but reduce the number of for and if statements currently in the script.
+    - simply some of the calculations, ie. the use of the total vote count for all the percentages for candidate and counties
 
 2.  Recommendation 2
     - Consolidate the print commands for candidates and counties into 1 statement.  
