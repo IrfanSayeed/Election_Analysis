@@ -34,8 +34,10 @@ The analysis of the election showed that:
 It is proposed that the election commission modify the current script for use with any election.  Current script can be modified by initiating the following code changes:
 
 
-1.  
-
+1.  Currently the script is very long and has a multitude of variables to track
+    -  propose consolidating candidate specifc and county specific variables.  
+    -  Example:  rather than tracking "winning candidate" and "winning county separately", combine to track "winning_candidate_county".  
+    -  This will result a lower level index, which will reduce the multiple variable names, but reduce the number of for and if statements currently in the script.
 
 2.  Consolidate the print commands for candidates and counties into 1 statement.  Current code has print commands for county and candidate data within 3 separate lines of code creating a consolidated output in the Election_Analysis text file
 
@@ -48,10 +50,3 @@ It is proposed that the election commission modify the current script for use wi
 ![image](https://user-images.githubusercontent.com/89538802/133560250-1bad6b88-7d91-4adf-b493-6c67c79d94f6.png)
 
 
-    -------------------------
-##Challenge Overview
-
-
-
-
-##Challenge Summary
